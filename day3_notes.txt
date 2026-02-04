@@ -1,0 +1,16 @@
+DAY 03 NOTES
+
+Git and GitHub basics:
+Installed Git, configured username and email.
+Learned cloning, adding, committing, pulling, and pushing.
+Understood modified, staged, and committed states.
+
+Command line:
+ls, dir, cd, bash usage.
+
+Agile:
+Iterative development approach.
+Focus on people, working software, collaboration, and adaptability.
+
+Scrum:
+Sprint cycles, reviews, retrospectives, velocity, and story points.
