@@ -1,16 +1,44 @@
-DAY 03 NOTES
+DAY 03 – GIT, GITHUB, AGILE & SCRUM NOTES
 
-Git and GitHub basics:
-Installed Git, configured username and email.
-Learned cloning, adding, committing, pulling, and pushing.
-Understood modified, staged, and committed states.
+GIT & VERSION CONTROL
+Git is a distributed version control system that tracks code changes and maintains project history. 
+It enables safe collaboration, rollback to previous versions, and better team coordination.
 
-Command line:
-ls, dir, cd, bash usage.
+Setup:
+git config --global user.name
+git config --global user.email
 
-Agile:
-Iterative development approach.
-Focus on people, working software, collaboration, and adaptability.
+Core Commands:
+git clone <url>      - copy remote repository
+git status           - check file state
+git add .            - stage changes
+git commit -m "msg"  - save snapshot
+git pull origin main - fetch updates
+git push origin main - upload changes
 
-Scrum:
-Sprint cycles, reviews, retrospectives, velocity, and story points.
+File States:
+Modified -> Staged -> Committed
+
+Command Line Basics:
+ls/dir to list files, cd to change folders, bash to run commands.
+
+GITHUB
+GitHub hosts repositories online for sharing, backup, and teamwork.
+Supports branches, pull requests, issue tracking, and collaboration.
+
+AGILE
+Iterative development approach delivering small, frequent improvements.
+Focuses on flexibility, quick feedback, and customer value.
+
+Agile Values:
+• Individuals over processes
+• Working software over documentation
+• Collaboration over contracts
+• Responding to change
+
+SCRUM
+A framework to implement Agile practices using short cycles called sprints.
+Includes sprint planning, daily standups, reviews, retrospectives, story points, and velocity tracking.
+
+OUTCOME
+Gained hands-on experience with Git workflow, repository management, GitHub collaboration, and practical understanding of Agile and Scrum for structured and efficient software development.
